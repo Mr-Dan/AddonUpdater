@@ -14,4 +14,4 @@ Addon Updater - программа для обновлений аддонов д
   4) Открывть лаунчер игры через программу.
 
  ##### demo
-1. ![Demo](https://imgur.com/a/Iyjz3s6)
+1. ![Demo](https://ibb.co/2cs2kJ3)
