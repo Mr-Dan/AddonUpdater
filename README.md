@@ -17,5 +17,4 @@ Addon Updater - программа для обновления аддонов д
  ![Вид программы](https://i.imgur.com/jSeznJf.png)
  
  ##### Youtube:
- ![Youtube](https://www.youtube.com/watch?v=ohWPln1pqSk)
-
+ [![Youtube](https://i.imgur.com/jSeznJf.png)](https://www.youtube.com/watch?v=ohWPln1pqSk)
